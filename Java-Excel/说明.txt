@@ -1,1 +1,3 @@
-hello
+读取小数据量的excel文件只需要用到DecodeExcel类就可以了
+读取大数据量的excel文件需要用到ExcelReaderUtil.java、
+ExcelXlsReader.java、ExcelXlsxReader.java这三个类
